@@ -1,0 +1,15 @@
+#Author: Venkatesh Setty
+#Date: Jun 03, 2014
+#SharePoint 2010
+#Hide Recycle Bin Navigation item from the quicklaunch
+
+<style>
+.ms-recyclebin {
+display:none;
+}
+</style>
+<style>
+.ms-quicklaunchheader{
+display:none;
+}
+</style>
